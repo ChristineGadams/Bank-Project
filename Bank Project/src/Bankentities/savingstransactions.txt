@@ -1,0 +1,3 @@
+2540,Work Place,5000,withdraw,2020-01-05
+2540,Work Place,2000,deposit,2020-01-05
+2398,Work Place,6000,deposit,2020-01-05
